@@ -4,6 +4,7 @@ public class Member1 {
 	
 	public Member1() {}
 	
-	private int PhoneNum;
+	private String name;
+	private int phoneNum;
 
 }
